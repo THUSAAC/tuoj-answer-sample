@@ -1,6 +1,7 @@
 {
     "title": "猜",
     "meta": {
+		"supported_languages": [ "answer" ]
     },
     "subtask_count": 1,
     "subtasks": [
