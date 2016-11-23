@@ -9,7 +9,7 @@
 	}, {
 		"cmd": "judge",
 		"ansId": 0,
-		"checker": "source/spj",
+		"checker": "spj/spj",
 		"stdOutputFile": "data/0.ans"
 	}
 ]
