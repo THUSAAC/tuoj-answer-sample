@@ -1,0 +1,15 @@
+[
+	{
+		"cmd": "compile",
+		"sourceId": 0,
+		"langs": {
+			"answer": {
+			},
+		}
+	}, {
+		"cmd": "judge",
+		"ansId": 0,
+		"checker": "source/spj",
+		"stdOutputFile": "data/0.ans"
+	}
+]
